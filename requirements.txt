@@ -1,3 +1,4 @@
-pyautogui
+PyAutoGUI
 pynput
 pytesseract
+Pillow
